@@ -1,0 +1,9 @@
+.parallax-container {
+    height: 800px;
+  }
+
+  nav{
+    position: fixed;
+    background: transparent;
+    padding:0px 20px;
+  }
